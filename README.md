@@ -4,7 +4,7 @@
 
 <p align="center">A Mac app that won't let you skip your walk break.</p>
 
-<h3 align="center"><a href="https://github.com/eshaands/backstride/releases/latest/download/Backstride-1.2.dmg">⬇ Download for Mac</a></h3>
+<h3 align="center"><a href="https://github.com/eshaands/backstride/releases/latest/download/Backstride-1.3.dmg">⬇ Download for Mac</a></h3>
 
 <p align="center">Needs an Apple silicon Mac on macOS 15 or later.<br>Walk modes need AirPods or Beats with head tracking.</p>
 
