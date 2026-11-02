@@ -4,7 +4,7 @@
 
 <p align="center">A Mac app that won't let you skip your walk break.</p>
 
-<h3 align="center"><a href="https://github.com/eshaands/backstride/releases/latest/download/Backstride-1.0.dmg">⬇ Download for Mac</a></h3>
+<h3 align="center"><a href="https://github.com/eshaands/backstride/releases/latest/download/Backstride-1.1.dmg">⬇ Download for Mac</a></h3>
 
 <p align="center">Needs an Apple silicon Mac on macOS 15 or later.<br>Walk modes need AirPods or Beats with head tracking.</p>
 
@@ -16,7 +16,7 @@ Simple advice. Almost impossible to follow.
 
 I know, because I've lived with L4-L5 and L5-S1 disc issues. I set timers. I swore I'd stand up after one more email. Then I'd look up three hours later, with my back reminding me exactly how long I'd been sitting.
 
-So I stopped trusting my willpower and built Backstride.
+So I stopped trusting my willpower and built Backstride. There's nothing to remember: it starts by itself when your AirPods are connected and you're using your Mac.
 
 When it's time to move, your Mac's screen slowly blurs and stays that way until you've actually walked for 1 or 2 minutes. Your AirPods confirm the walk, so you can't just click it away. There's an emergency skip for when you really can't leave, and a gentler reminder mode if you don't need the push.
 
